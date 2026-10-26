@@ -4,7 +4,7 @@ Projekt testowy przygotowany jako część portfolio QA. Zawiera testy manualne 
 
 ## Testowana aplikacja
 
-**SauceDemo** (`https://www.saucedemo.com`) – publiczna aplikacja demo e-commerce, stworzona specjalnie do celów testowych przez Sauce Labs. Idealnie nadaje się do prezentacji umiejętności QA, ponieważ zawiera celowo wbudowane błędy i różne typy kont użytkowników.
+**SauceDemo** (`https://www.saucedemo.com`) – publiczna aplikacja demo e-commerce, stworzona specjalnie do celów testowych przez Sauce Labs.
 
 ## Struktura projektu
 
